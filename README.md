@@ -24,7 +24,7 @@ object **Leo Gomes** {
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/vvQCnz4/Leo-Pic.jpg">
+  <img align="right" alt="Leo-pic" height="180" style="border-radius:50px;" src="https://i.ibb.co/vvQCnz4/Leo-Pic.jpg">
  
 </div>
   
