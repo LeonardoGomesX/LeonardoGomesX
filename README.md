@@ -13,8 +13,6 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" ![Leo-Pic](https://user-images.githubusercontent.com/86701927/147289560-645ba4fe-a64f-4ffe-bb46-72a761a13419.jpg)
->
 </div>
 
 
