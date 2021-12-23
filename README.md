@@ -1,7 +1,7 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
 ```kotlin
-object **Leo's** {
+object **Leo Gomes** {
  val name = "Leonardo Gomes"
  val acknowledgements = "Front-End", "UX/UI Design"
  
