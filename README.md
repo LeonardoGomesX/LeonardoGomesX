@@ -1,7 +1,5 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 ```kotlin
 object **Leo's** {
  val name = "Leonardo Gomes"
@@ -15,8 +13,8 @@ object **Leo's** {
 
 <div align="center">
   <a href="https://github.com/LeonardoGomesX">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGomesX&show_icons=true&theme=gothan&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomesX&layout=compact&langs_count=7&theme=gothan"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoGomesX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGomesX&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div style="display: inline_block"><br>
