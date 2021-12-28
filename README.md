@@ -1,6 +1,7 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
 ```Typescript
+import Developer from "LeonardoGomesX";
 
 const Developer = {
  name: "Leonardo Gomes",
