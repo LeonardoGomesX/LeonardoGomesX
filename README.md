@@ -1,12 +1,12 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
-```kotlin
-object **Leo Gomes** {
- val name = "Leonardo Gomes"
- val acknowledgements = "Front-End", "UX/UI Design"
+```
+ **Leo Gomes** {
+ const name = "Leonardo Gomes"
+ const acknowledgements = "Front-End", "UX/UI Design"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript", "Typescript", "React") 
+ const primarySkillset = "ALGUMAS HABILIDADES"
+ const languages = listOf("JavaScript", "Typescript", "React") 
 
 }
 ```
