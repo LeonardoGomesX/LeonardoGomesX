@@ -1,12 +1,14 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
-```
- **Leo Gomes** {
- const name = "Leonardo Gomes"
- const acknowledgements = "Front-End", "UX/UI Design"
+```Typescript
+import Developer from "LeonardoGomesX";
+
+const Developer = {
+ name: "Leonardo Gomes",
+ acknowledgements: "Front-End", "UX/UI Design"
  
- const primarySkillset = "ALGUMAS HABILIDADES"
- const languages = listOf("JavaScript", "Typescript", "React") 
+ languages: ["JavaScript", "Typescript"]
+ frameworksAndLibs = ["React", "Express", "Axios", "Knex", "MySQL", "material-ui"];
 
 }
 ```
@@ -26,6 +28,9 @@
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leo-Node.JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Leo-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    
   <img align="right" alt="Leo-pic" height="180" style="border-radius:50px;" src="https://i.ibb.co/vvQCnz4/Leo-Pic.jpg">
  
