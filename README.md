@@ -1,14 +1,13 @@
 ### Oi eu sou o Leonardo Gomes 👋
 
 ```Typescript
-import Developer from "LeonardoGomesX";
 
 const Developer = {
  name: "Leonardo Gomes",
- acknowledgements: "Front-End", "UX/UI Design"
+ acknowledgements: "Front-End", "UX/UI Design",
  
- languages: ["JavaScript", "Typescript"]
- frameworksAndLibs = ["React", "Express", "Axios", "Knex", "MySQL", "material-ui"];
+ languages: ["JavaScript", "Typescript"],
+ frameworksAndLibs: ["React", "Express", "Axios", "Knex", "MySQL", "material-ui"];
 
 }
 ```
