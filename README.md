@@ -35,6 +35,8 @@ const Developer = {
   <img align="right" alt="Leo-pic" height="180" style="border-radius:50px;" src="https://i.ibb.co/vvQCnz4/Leo-Pic.jpg">
  
 </div>
+ 
+ ##
   
 ### Onde me encontrar nas redes!
  
